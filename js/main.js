@@ -3,9 +3,9 @@ let elFormControl = document.querySelector(".form-control");
 let elFormSelect = document.querySelector(".form-select");
 let elResult = document.querySelector(".result");
 
-let USD = 10950;
-let EURO = 11250;
-let RUBL = 140;
+let USD = 10864;
+let EURO = 12247;
+let RUBL = 130;
 
 elForm.addEventListener("submit", function (evt) {
   evt.preventDefault();
